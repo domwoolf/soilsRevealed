@@ -8,9 +8,9 @@ for Soil Resources (WRB) classification.}
 classify_soil_WRB(sand, clay, wrb_class)
 }
 \arguments{
-\item{sand}{sand content (%).}
+\item{sand}{sand content (\%).}
 
-\item{clay}{clay content (%).}
+\item{clay}{clay content (\%).}
 
 \item{wrb_class}{World Reference Base for Soil Resources (WRB) classification}
 }
